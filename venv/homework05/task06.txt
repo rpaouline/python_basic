@@ -1,0 +1,5 @@
+Geometry: 50(l) 50(pr)
+PE: 40(pr)
+Math: 50(l) 80(pr)
+Electronics: 40(l) 40(lab)
+English language: 20(l) 80(pr)

@@ -1,0 +1,6 @@
+Averdine 30000
+Burling 34000
+Cotton 18600
+McArthur 29000
+OReily 17000
+Wharton 19800
